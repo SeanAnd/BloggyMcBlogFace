@@ -1,0 +1,27 @@
+  .blogBox {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .blogBox .btnDiv {
+    align-self: flex-end;
+    padding-bottom: 15px;
+    left: 0;
+  }
+
+  .iList {
+    display: flex;
+    flex-direction: row;
+    overflow: auto;
+  }
+
+  .imageItem {
+    height: 100%;
+    width: 100%;
+  }
+
+  .image {
+    object-fit: contain;
+    height: 150px;
+    width: 100px;
+  }

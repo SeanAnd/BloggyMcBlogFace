@@ -1,0 +1,21 @@
+  .signupBox {
+    max-width: 350px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    margin-top: 30px;
+  }
+
+  .signupBox .signup {
+    margin-top: 25px;
+    width: 100%;
+  }
+  
+  .loading {
+    width: "100%";
+    height: "64px";
+    display: "flex";
+    align-items: "center";
+    justify-Content: "center";
+  }

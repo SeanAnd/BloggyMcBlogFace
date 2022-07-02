@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreWithReactAndBasicAuth.Web", "NetCoreWithReactAndBasicAuth.Web\NetCoreWithReactAndBasicAuth.Web.csproj", "{61C12583-B579-4B3F-A10E-A403052C300B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreWithReactAndBasicAuth.Core", "NetCoreWithReactAndBasicAuth.Core\NetCoreWithReactAndBasicAuth.Core.csproj", "{D0CD3EF9-17A8-4423-8AF3-44864818C7AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreWithReactAndBasicAuth.Data", "NetCoreWithReactAndBasicAuth.Data\NetCoreWithReactAndBasicAuth.Data.csproj", "{DCC983D1-BB43-40D1-B849-0CC5CAC670DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61C12583-B579-4B3F-A10E-A403052C300B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61C12583-B579-4B3F-A10E-A403052C300B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61C12583-B579-4B3F-A10E-A403052C300B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61C12583-B579-4B3F-A10E-A403052C300B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0CD3EF9-17A8-4423-8AF3-44864818C7AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0CD3EF9-17A8-4423-8AF3-44864818C7AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0CD3EF9-17A8-4423-8AF3-44864818C7AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0CD3EF9-17A8-4423-8AF3-44864818C7AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCC983D1-BB43-40D1-B849-0CC5CAC670DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCC983D1-BB43-40D1-B849-0CC5CAC670DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCC983D1-BB43-40D1-B849-0CC5CAC670DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCC983D1-BB43-40D1-B849-0CC5CAC670DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB3B488E-C363-4E17-80A6-134526C25059}
+	EndGlobalSection
+EndGlobal
